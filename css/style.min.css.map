@@ -23,7 +23,7 @@
 		"themes/LoveIt/assets/css/_core/_layout.scss",
 		"themes/LoveIt/assets/css/_page/_index.scss",
 		"assets/css/_page/_single.scss",
-		"themes/LoveIt/assets/css/_partial/_single/_toc.scss",
+		"assets/css/_partial/_single/_toc.scss",
 		"themes/LoveIt/assets/css/_partial/_single/_code.scss",
 		"themes/LoveIt/assets/css/_partial/_single/_instagram.scss",
 		"themes/LoveIt/assets/css/_partial/_single/_admonition.scss",
