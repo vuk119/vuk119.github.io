@@ -3,15 +3,7 @@
         <title>vuk119</title>
         <link>https://vuk119.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 May 2023 00:22:36 &#43;0100</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
             <atom:link href="https://vuk119.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Starting a Blog</title>
-    <link>https://vuk119.github.io/posts/intro/</link>
-    <pubDate>Thu, 04 May 2023 00:22:36 &#43;0100</pubDate>
-    <author>Author</author>
-    <guid>https://vuk119.github.io/posts/intro/</guid>
-    <description><![CDATA[In an age where the attention span of a man and goldfish are converging, I am taking a rather modest way of communicating my ideas to the world &ndash; writing. Through a modern but quite minimalistic website I will aim to expose thoughts I find worth sharing.]]></description>
-</item>
-</channel>
+        </channel>
 </rss>
